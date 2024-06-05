@@ -1,0 +1,2 @@
+# InterviewAndOthersKnowledge
+Fixed Knowledge
